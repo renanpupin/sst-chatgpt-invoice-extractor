@@ -1,0 +1,13 @@
+
+# sst
+.sst
+
+# webstorm
+
+.idea/
+
+# node dependencies
+node_modules/
+
+# secrets
+.env
